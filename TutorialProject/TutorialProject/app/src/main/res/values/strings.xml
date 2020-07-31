@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="introduce_your_title">Introduce your title</string>
+    <string name="name_surname">John Doe</string>
+    <string name="phone_number">0712345689</string>
+    <string name="email_address">johndoe@anonymous.com</string>
+</resources>
