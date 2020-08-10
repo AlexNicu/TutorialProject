@@ -37,6 +37,7 @@
         android:textSize="26sp"
         android:textColor="@color/textWhiteColor"
         />
+    <!-- TODO 3 -> Make one of the words in the above text have as color the textBlackColor resource (you can choose the ways/methods to use to do it) -->
 
     <EditText
         android:id="@+id/position_title_et"
